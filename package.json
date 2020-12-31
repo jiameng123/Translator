@@ -5,6 +5,8 @@
 	"publisher": "Ninja",
 	"version": "0.0.1",
 	"icon": "icon.png",
+	"repository": "https://github.com/jiameng123/Translator.git",
+	"private":"true",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.52.0"
